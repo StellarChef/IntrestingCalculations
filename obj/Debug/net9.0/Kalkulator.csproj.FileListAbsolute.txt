@@ -1,0 +1,14 @@
+/Users/maciejwartak/Documents/C#/Obiektowe/ProjektKalkulator/Kalkulator/obj/Debug/net9.0/Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maciejwartak/Documents/C#/Obiektowe/ProjektKalkulator/Kalkulator/obj/Debug/net9.0/Kalkulator.AssemblyInfoInputs.cache
+/Users/maciejwartak/Documents/C#/Obiektowe/ProjektKalkulator/Kalkulator/obj/Debug/net9.0/Kalkulator.AssemblyInfo.cs
+/Users/maciejwartak/Documents/C#/Obiektowe/ProjektKalkulator/Kalkulator/obj/Debug/net9.0/Kalkulator.csproj.CoreCompileInputs.cache
+/Users/maciejwartak/Documents/C#/Obiektowe/ProjektKalkulator/Kalkulator/bin/Debug/net9.0/Kalkulator
+/Users/maciejwartak/Documents/C#/Obiektowe/ProjektKalkulator/Kalkulator/bin/Debug/net9.0/Kalkulator.deps.json
+/Users/maciejwartak/Documents/C#/Obiektowe/ProjektKalkulator/Kalkulator/bin/Debug/net9.0/Kalkulator.runtimeconfig.json
+/Users/maciejwartak/Documents/C#/Obiektowe/ProjektKalkulator/Kalkulator/bin/Debug/net9.0/Kalkulator.dll
+/Users/maciejwartak/Documents/C#/Obiektowe/ProjektKalkulator/Kalkulator/bin/Debug/net9.0/Kalkulator.pdb
+/Users/maciejwartak/Documents/C#/Obiektowe/ProjektKalkulator/Kalkulator/obj/Debug/net9.0/Kalkulator.dll
+/Users/maciejwartak/Documents/C#/Obiektowe/ProjektKalkulator/Kalkulator/obj/Debug/net9.0/refint/Kalkulator.dll
+/Users/maciejwartak/Documents/C#/Obiektowe/ProjektKalkulator/Kalkulator/obj/Debug/net9.0/Kalkulator.pdb
+/Users/maciejwartak/Documents/C#/Obiektowe/ProjektKalkulator/Kalkulator/obj/Debug/net9.0/Kalkulator.genruntimeconfig.cache
+/Users/maciejwartak/Documents/C#/Obiektowe/ProjektKalkulator/Kalkulator/obj/Debug/net9.0/ref/Kalkulator.dll
