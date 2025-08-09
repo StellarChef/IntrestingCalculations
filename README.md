@@ -1,4 +1,6 @@
- ___       _                     _             
+ 
+<pre>
+___       _                     _             
  |_ _|_ __ | |_ ___ _ __ ___  __| | ___  _ __  
   | || '_ \| __/ _ \ '__/ _ \/ _` |/ _ \| '_ \ 
   | || | | | ||  __/ | |  __/ (_| | (_) | | | |
@@ -37,3 +39,5 @@ My goal is to extend this simple calculator with more advanced
 features and programming techniques, experimenting with design
 patterns, clean architecture, and possibly even integrating
 artificial intelligence or other innovative functionalities.
+
+</pre>
